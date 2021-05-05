@@ -1,5 +1,5 @@
 ### Hey, I'm Công Đỗ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Fullstack developer at DSquare DBU
+Fullstack developer at DSquare GBU
 
 <a href="#">
   <img align="left" alt="Kai's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
