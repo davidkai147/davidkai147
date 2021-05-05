@@ -13,7 +13,7 @@ Fullstack developer at DSquare GBU
 
 ![](https://visitor-badge.glitch.me/badge?page_id=davidkai147.davidkai147)
 
-Hi, I'm [Công Đỗ](https:/congdo.dev/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Công Đỗ](https:/congdo.dev/), a passionate self-taught Full Stack web developer and a freelance software engineer from Vietnam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 **Languages and Tools:**
 
