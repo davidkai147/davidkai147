@@ -11,7 +11,7 @@ Hi, I'm [Công Đỗ](https:/congdo.dev/), a passionate self-taught Full Stack w
 <a href="#">
   <img align="left" alt="Cong Do | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/congdct/">
+<a href="https://www.linkedin.com/in/congdct/" target="_blank">
   <img align="left" alt="Cong Do's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
